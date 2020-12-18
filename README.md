@@ -1,4 +1,4 @@
-<h1> Data Lake
+<h1> Data Lakes with Spark
 <br />Data Engineering Nanodegree
 </h1>
 Author: Ashraf Hussain
